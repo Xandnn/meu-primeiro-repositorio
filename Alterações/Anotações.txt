@@ -1,0 +1,4 @@
+                           **** Erro que me ocorreu ****  
+
+
+SOLUÇÃO ->  https://cursos.alura.com.br/forum/topico-fatal-local-does-not-appear-to-be-a-git-repository-167817
